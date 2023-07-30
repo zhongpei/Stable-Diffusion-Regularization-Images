@@ -4,8 +4,8 @@
 https://github.com/bmaltais/kohya_ss
 
 ## Training 
-images: 14
-Reg Images: 200 from here https://github.com/hack-mans/Stable-Diffusion-Regularization-Images
+* images: 14
+* Reg Images: 200 from here https://github.com/hack-mans/Stable-Diffusion-Regularization-Images
 
 ## Command
 ``` bash
